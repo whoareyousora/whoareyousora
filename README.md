@@ -86,9 +86,7 @@ turning fragile, manual operations into reproducible infrastructure that
 ### 📊 GitHub stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoareyousora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=whoareyousora&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=whoareyousora&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+<img height="165" src="https://streak-stats.demolab.com?user=whoareyousora&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
