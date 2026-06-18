@@ -8,18 +8,18 @@
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=whoareyousora&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=420" alt="github stats" />
 
-### 👋 About me
+### About me
 
 I'm an **Infrastructure / DevOps engineer** with a strong **PostgreSQL / DBA**
 specialization. I design and operate reliable, automated systems and like
 turning fragile, manual operations into reproducible infrastructure that
 **recovers on its own**.
 
-- 🐘 Highly-available PostgreSQL: replication, failover, backups & PITR, tuning
-- ☸️ Kubernetes, GitOps (Argo CD), and the platform layer around apps
-- 🧱 Everything as code: Terraform, Ansible, CI/CD pipelines
-- 📈 Observability: Prometheus, Grafana, Loki
-- ☁️ Hands-on with **Yandex Cloud**; deepening AWS / GCP
+- Highly-available PostgreSQL: replication, failover, backups & PITR, tuning
+- Kubernetes, GitOps (Argo CD), and the platform layer around apps
+- Everything as code: Terraform, Ansible, CI/CD pipelines
+- Observability: Prometheus, Grafana, Loki
+- Hands-on with **Yandex Cloud**; deepening AWS / GCP
 
 <br clear="right"/>
 
@@ -60,13 +60,13 @@ turning fragile, manual operations into reproducible infrastructure that
 
 ---
 
-### 📌 Featured projects
+### Featured projects
 
 | Project | What it is |
 |---|---|
-| 🐘 **[pg-ha-platform](https://github.com/whoareyousora/pg-ha-platform)** | Highly-available PostgreSQL on Kubernetes — automatic failover, WAL-G backups (PITR), monitoring, Terraform/Ansible. |
-| ☸️ **[k8s-gitops-platform](https://github.com/whoareyousora/k8s-gitops-platform)** | Production-style Kubernetes platform delivered entirely via GitOps (Argo CD): ingress, TLS, metrics, logs, secrets. |
-| 🚀 **[cicd-pipeline-demo](https://github.com/whoareyousora/cicd-pipeline-demo)** | End-to-end CI/CD: lint → test → build → image vuln scan → push → GitOps deploy. |
+| **[pg-ha-platform](https://github.com/whoareyousora/pg-ha-platform)** | Highly-available PostgreSQL on Kubernetes — automatic failover, WAL-G backups (PITR), monitoring, Terraform/Ansible. |
+| **[k8s-gitops-platform](https://github.com/whoareyousora/k8s-gitops-platform)** | Production-style Kubernetes platform delivered entirely via GitOps (Argo CD): ingress, TLS, metrics, logs, secrets. |
+| **[cicd-pipeline-demo](https://github.com/whoareyousora/cicd-pipeline-demo)** | End-to-end CI/CD: lint → test → build → image vuln scan → push → GitOps deploy. |
 
 **DBA / ops utilities:**
 [`pg-health-check`](https://github.com/whoareyousora/pg-health-check) ·
@@ -79,7 +79,7 @@ turning fragile, manual operations into reproducible infrastructure that
 
 <div align="center">
 
-### 📊 GitHub stats
+### GitHub stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoareyousora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 <img height="165" src="https://streak-stats.demolab.com?user=whoareyousora&theme=tokyonight&hide_border=true" alt="streak" />
