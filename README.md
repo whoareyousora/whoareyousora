@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Infrastructure+%2F+DevOps+Engineer;PostgreSQL+High+Availability;Kubernetes+%E2%80%A2+GitOps+%E2%80%A2+Infrastructure+as+Code;Automating+the+boring+parts" alt="typing banner" />
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=whoareyousora&color=36BCF7&style=flat-square&label=Profile+views)
-
 </div>
 
 ---
